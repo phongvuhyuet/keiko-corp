@@ -36,7 +36,6 @@ $(document).ready(function(){
 
 
 
-
 	//wow.js on scroll animations initialization
 	wow = new WOW(
 	    {
